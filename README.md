@@ -1,6 +1,6 @@
 # TwitterBot
 
-
+![The original doge](https://upload.wikimedia.org/wikipedia/en/5/5f/Original_Doge_meme.jpg)
 
 This is a bot that looks for the keyword "doge" in two tweets and replies to both those tweets with the message "Doges are very fun." with a delay of five seconds between the replies.
 
